@@ -69,7 +69,28 @@ h1, h2, h3, h4, h5 {
 	background-color:#59e3ff;
 	color:#34ed97;
 }
-
-.start-button{
-	
+/* Start button hover settings */
+.start-button:hover{
+background-color: #353635;
+border-style: groove 2px #34ed97;
+}
+/* Features and about section */
+.top-content{
+	background-color:#1e1f1e;
+	color:#48b048;
+	display:inline-block;
+}
+/* service, product, vision section settings */
+.bot-section{
+	background-color: #48b048;
+	color:#1e1f1e;
+	display: inline-block;
+}
+/* H2 settings */
+h2{
+	font-family: 'Teko', sans-serif;
+}
+/* footer info */
+footer{
+	text-align: center;
 }
